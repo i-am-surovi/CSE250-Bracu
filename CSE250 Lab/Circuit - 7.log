@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Asus\OneDrive\Desktop\Circuit - 7.asc
+
+
+Date: Thu Nov 23 13:20:13 2023
+Total elapsed time: 0.070 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 5003
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 5
+fillins = 0
+solver = Normal
+Avg thread counts: 1.5/0.0/2.1/1.5
+Matrix Compiler1: 132 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 301 bytes object code size  0.1/0.1/[0.1]
+

@@ -1,0 +1,24 @@
+Circuit: * C:\Users\Asus\OneDrive\Desktop\exp 08.asc
+
+WARNING: Node N001 is floating.
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Nov 30 12:49:07 2023
+Total elapsed time: 1.652 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 160185
+traniter = 160182
+tranpoints = 80092
+accept = 80080
+rejected = 12
+matrix size = 4
+fillins = 0
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1:       6 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: 248 bytes object code size  0.1/0.1/[0.1]
+
